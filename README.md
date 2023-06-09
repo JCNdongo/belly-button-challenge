@@ -9,5 +9,6 @@ I created a dashboard to display all visualizations.
 
 ![Belly_Button_Diversity_Dashboard](https://github.com/JCNdongo/belly-button-challenge/assets/120480912/df436110-c730-417f-b01d-b8ed1691d913)
 
-
+Reference:
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
 
